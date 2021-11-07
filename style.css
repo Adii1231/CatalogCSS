@@ -1,0 +1,68 @@
+body.catalog {
+    background: url("poza1.jpg") no-repeat center center fixed;
+	background-size: cover;
+  }
+body.profile {
+    background-color: #666699;
+    text-align: center;
+    color: #66FFCC;
+    margin: 0;
+img {
+    border-radius: 70%;
+    opacity: 90%;
+}
+}
+* {
+    box-sizing: border-box;
+}
+.bg-text {
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 250px;
+    padding: 0px;
+    text-align: center;
+  }
+.bg-text p{
+    border: 7px inset #FFD700;
+    background-color: white;
+  }
+  .bg-text a{ 
+    color: #000000;
+    text-decoration: none;
+  }
+.p {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;
+  }
+tr, td {
+	text-align: center;
+    border: 2.5px solid #333300;
+}
+table { 
+    margin-left: auto;
+    margin-right: auto;
+}
+a{ 
+	color: #66FFCC;
+}
+h1, h2 {
+	font-style: italic;
+    color: black;
+    background-color: #CCFFCC;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+ul, li {
+    border-style: outset;
+	border-color: black;
+}
+img {
+    border-radius: 70%;
+    opacity: 90%;
+}
+      
+	
